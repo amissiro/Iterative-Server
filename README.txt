@@ -1,6 +1,3 @@
-AZRET MISSIROV #29512170
-AMISSIRO@UCI.EDU 
-
 #start server
 ./sever 
 
@@ -25,8 +22,4 @@ If the program correctly locates the folder or the files you will see output lik
 
 Client will terminate automatically.
 
-PLEASE FEEL FREE TO CONTACT ME IF YOU UNABLE TO RUN OR HAVE A PROBLEM UNDERSTANDING HOW TO RUN IT. I WILL BE MORE THAN HAPPY TO COME AND DEMONSTRATE AND IF NECESSARY GO OVER THE CODE.
-
-AZRET MISSIROV #29512170
-AMISSIRO@UCI.EDU 
 
